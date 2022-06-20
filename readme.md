@@ -15,7 +15,7 @@ By Tianyi Li, Zhoufei Tang, Tao Lu and Xiaoquan (Michael) Zhang
 
 The  [UCI Adult Dataset](https://archive.ics.uci.edu/ml/datasets/adult) is used in this demo code.
 
-Run the code with the following command in python 3 with the package listed in the :
+Run the code with the following command in python 3 with the package listed in the "requirements.txt":
 
 ```python
 python main.py
