@@ -1,3 +1,8 @@
+## Overview
+
+This is the code for the paper: “Propose and Review”: Interactive Bias Mitigation of
+Machine Classifiers
+
 ## Demo
 
 The  [UCI Adult Dataset](https://archive.ics.uci.edu/ml/datasets/adult) is used in this demo code.
